@@ -1,0 +1,23 @@
+name: liropa
+favicon: null
+layout_spectrum: 0.5187781029380858
+typography_spectrum: 0.41480287443846464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16346871689893305
+  lightness: 0.17974985763430595
+  saturation: 0.6844068875070661
+  rhythmicContrast: 0.009056919487193227
+purpose: []
